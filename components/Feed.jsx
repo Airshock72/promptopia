@@ -23,8 +23,6 @@ const Feed = () => {
 
   const handleSearchChange = e => {}
 
-
-
   useEffect(() => {
     const fetchPosts = async () => {
       const response = await fetch('/api/prompt')
