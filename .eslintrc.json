@@ -43,10 +43,10 @@
     "no-var": "error",
     "prefer-const": "error",
     "quote-props": ["error", "consistent-as-needed"],
-    "no-console": [
-      "error",
-      { "allow": ["clear", "info", "error", "dir", "trace"] }
-    ]
+//    "no-console": [
+//      "error",
+//      { "allow": ["clear", "info", "error", "dir", "trace"] }
+//    ]
   },
   "parserOptions": {
     "ecmaVersion": 2015,
